@@ -13,10 +13,10 @@ You can adjust the search depth of the AI opponent by selecting a different valu
 Project structure
 The project consists of the following files:
 
-index.html: The main HTML file that contains the chessboard and game information.
-style.css: The CSS file that styles the chessboard and game information.
-script.js: The JavaScript file that implements the game logic, including the minimax algorithm with alpha-beta pruning.
-lib/: A directory that contains the Chess.js and Chessboard.js libraries, as well as the jQuery library.  
+- index.html: The main HTML file that contains the chessboard and game information.
+- style.css: The CSS file that styles the chessboard and game information.
+- script.js: The JavaScript file that implements the game logic, including the minimax algorithm with alpha-beta pruning.
+- lib/: A directory that contains the Chess.js and Chessboard.js libraries, as well as the jQuery library.  
 
 ## Credits
 The chess game is based on the Chess.js and Chessboard.js libraries, which were created by Chris Oakman. The minimax algorithm with alpha-beta pruning was implemented based on the pseudocode provided on the Wikipedia page for the minimax algorithm.
